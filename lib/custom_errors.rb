@@ -10,7 +10,7 @@ class Person
     self.partner = person
     person.partner = self
   end
-binding.pry
+
 end
 
 beyonce = Person.new("Beyonce")
